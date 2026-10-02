@@ -1,0 +1,6 @@
+{
+  "name": "RESTAURANT NAME HERE | Official Website",
+  "description": "RESTAURANT DESCRIPTION HERE",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
